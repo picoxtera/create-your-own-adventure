@@ -12,4 +12,6 @@ Let's ride to the wonderful intersection of Haight and Fillmore.
 
 Go to Bean There Cafe for some [Ginger Peachy Keen](ginger-peachy-keen/ginger-peachy-keen.md).
 
+Go to [Pier 39](https://www.pier39.com) and have some [fun](pier39/fun.md)?
+
 Go to Cafe Europa for some pork schnitzel
